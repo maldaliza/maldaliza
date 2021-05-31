@@ -1,19 +1,16 @@
-### 안녕하세요 Maldaliza입니다.👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaldaliza)](https://hits.seeyoufarm.com)
-<!--
-**maldaliza/maldaliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 이재국
+**JUNIOR BACK-END DEVELOPER**
 
-Here are some ideas to get you started:
+## ABOUT ME
+개발을 통해 사람들에게 이로운 서비스를 제공하고 싶습니다. <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CONTACT DETAILS
+* **E-mail** jaekook4849@gmail.com
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=maldaliza&show_icons=true&hide_border=true)](https://github.com/maldaliza)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldaliza&layout=compact)](https://github.com/maldaliza)
+## COMPETENCIES
+* Java / Spring Framework
+* Node.js / Express
+* HTML, CSS, Javascript / Bootstrap
+* React
+* RDBMS, NoSQL
+* Git, Github
